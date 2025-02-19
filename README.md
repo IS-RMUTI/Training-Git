@@ -9,4 +9,8 @@ Poramet Rocjanawipart
 Nonlaphan
 nuttanicha Fangdanklng 65152110228-0
 Alisa
+<<<<<<< HEAD
 Anocha Janthasao 65152110229-0
+=======
+Siriyakorn Naemkhonburi 
+>>>>>>> pr/27
